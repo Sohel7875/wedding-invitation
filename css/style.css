@@ -1227,3 +1227,8 @@ body.transition-active .event-subtitle {
   flex-wrap: wrap;
   margin-top: 15px;
 }
+
+.rsvp-btn i {
+  margin-right: 8px;
+  font-size: 16px;
+}
