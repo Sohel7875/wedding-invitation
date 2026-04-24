@@ -1219,3 +1219,11 @@ body.transition-active .event-subtitle {
 .transition-overlay {
   pointer-events: none;
 }
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
